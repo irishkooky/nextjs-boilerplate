@@ -9,6 +9,12 @@ pnpm install
 pnpm dev
 ```
 
+## 技術スタック(予定)
+### 状態管理
+- [Jotai](https://jotai.org/)
+### UIライブラリ
+- [Mantine](https://mantine.dev/)
+
 ## 何作るかのメモ
 
 - 便利なものまとめ
