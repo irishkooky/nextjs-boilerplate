@@ -19,4 +19,5 @@ module.exports = {
   ],
   importOrderParserPlugins: ["typescript", "jsx", "decorators-legacy"],
   importOrderTypeScriptVersion: "5.1.6",
+  singleQuote: true,
 };
